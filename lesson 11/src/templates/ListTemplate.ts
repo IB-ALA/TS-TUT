@@ -1,5 +1,4 @@
 import FullList from "../model/FullList";
-import ListItem from "../model/ListItem";
 
 interface DOMList {
   ul: HTMLUListElement;
